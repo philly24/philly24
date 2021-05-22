@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Phillip
-- 👀 I’m interested in AI, data science and 
-- 🌱 I’m currently learning how to build an API 
-- I would greatly appreciate if you took a look at my projects and provide me with feedback!
+- 👋 Hi, I’m Phillip Vo
+- CS @ SDSU
+- linkedin.com/in/phillip-vo-2002
 <!---
 
 philly24@github

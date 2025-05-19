@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phillip Vo
-- CS @ SDSU
+- CS Grad @ SDSU
 - linkedin.com/in/phillip-vo-2002
 <!---
 
